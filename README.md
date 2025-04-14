@@ -1,4 +1,4 @@
-# Repositori Penelitian Tesis Magister Informatika Fikri
+# Repositori Penelitian Tesis Magister Informatika Fikri Irfan Adristi
 
 Repositori ini berisi kumpulan file yang digunakan dalam proses penelitian tugas akhir jenjang Magister oleh:
 
@@ -33,3 +33,39 @@ Konten repositori ini dibuka untuk keperluan ilmiah dan transparansi akademik. P
 Atau kirim pertanyaan melalui *issue* pada halaman GitHub ini.
 ---
 > Repositori ini bersifat publik atas sepengetahuan dosen pembimbing dan ditujukan untuk mendukung proses peninjauan oleh pihak jurnal, akademisi, dan sebagai lampiran tesis.
+
+# Fikri Irfan Adristi Thesis Research Repository
+
+This repository contains a collection of files used during a Master's thesis research conducted by:
+
+**Name**: Fikri Irfan Adristi  
+**Student ID**: 23917020  
+**Study Program**: Informatics Study Program, Masters Program, Islamic University of Indonesia
+
+## Repository Contents
+This repository includes:
+- The main code used for analysis,
+- Supporting files such as datasets in `.csv`, `.xlsx` formats,
+- Analysis notebooks in `.ipynb` format,
+- Project files and results from Orange Data Mining,
+- And various other supporting documents and assets.
+
+All materials in this repository are original work by the author and have been used in academic research under the supervision of an official academic advisor.
+
+## Status
+The thesis document is currently under academic revision. However, all contents in this repository reflect the actual results and analysis used in the final project.
+
+## License
+This repository is licensed under the **GNU General Public License v3.0 (GPL-3.0)**, which allows:
+- Use, distribution, and modification of the content,
+- As long as attribution is given to the original author,
+- And redistribution is under the same license.
+
+## Ethical Use
+The repository is made publicly available for academic transparency and scholarly purposes. Any misuse or unauthorized publication without proper attribution or permission may be subject to academic and legal consequences.
+
+## Contact
+📧 Email: [your email]  
+Or submit an inquiry via the GitHub *issue* section.
+---
+> This repository is publicly available with the knowledge of the thesis supervisor and is intended to support the review process by journals, academics, and as an official thesis appendix.
