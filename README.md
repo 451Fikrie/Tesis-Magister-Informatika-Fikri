@@ -1,4 +1,4 @@
-# Repositori Penelitian Tesis Magister Informatika Fikri Irfan Adristi
+# Repositori Penelitian Tesis Magister Informatika Fikri Irfan Adristi - Bahasa Indonesia
 
 Repositori ini berisi kumpulan file yang digunakan dalam proses penelitian tugas akhir jenjang Magister oleh:
 
@@ -34,7 +34,7 @@ Atau kirim pertanyaan melalui *issue* pada halaman GitHub ini.
 ---
 > Repositori ini bersifat publik atas sepengetahuan dosen pembimbing dan ditujukan untuk mendukung proses peninjauan oleh pihak jurnal, akademisi, dan sebagai lampiran tesis.
 
-# Fikri Irfan Adristi Thesis Research Repository
+# Fikri Irfan Adristi Thesis Research Repository - English
 
 This repository contains a collection of files used during a Master's thesis research conducted by:
 
