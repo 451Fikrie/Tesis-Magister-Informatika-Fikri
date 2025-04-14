@@ -65,7 +65,7 @@ This repository is licensed under the **GNU General Public License v3.0 (GPL-3.0
 The repository is made publicly available for academic transparency and scholarly purposes. Any misuse or unauthorized publication without proper attribution or permission may be subject to academic and legal consequences.
 
 ## Contact
-📧 Email: [your email]  
+📧 Email: 23917020@students.uii.ac.id  
 Or submit an inquiry via the GitHub *issue* section.
 ---
 > This repository is publicly available with the knowledge of the thesis supervisor and is intended to support the review process by journals, academics, and as an official thesis appendix.
